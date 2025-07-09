@@ -36,6 +36,12 @@ Below are some example visuals from the dashboards:
    rill start
    ```
 
+4. **Load the data into Rill:**
+   - You can use ClickHouse or DuckDB as your backend. DuckDB is easier to set up for local testing.
+   - Example data files (fake data) used for this project:
+     
+     [Download sample data from this S3 bucket](https://agreeable-data-public.s3.amazonaws.com/sampleeydata/)
+
 ## Project Structure
 
 - `connectors/` – Data source connector configs
@@ -43,3 +49,4 @@ Below are some example visuals from the dashboards:
 - `metrics/` – Metric definitions
 - `sources/` – Source data configs
 - `rill.yaml` – Rill project configuration
+
