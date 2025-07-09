@@ -40,7 +40,7 @@ Below are some example visuals from the dashboards:
    - You can use ClickHouse or DuckDB as your backend. DuckDB is easier to set up for local testing.
    - Example data files (fake data) used for this project:
      
-     [Download sample data from this S3 bucket](https://agreeable-data-public.s3.amazonaws.com/sampleeydata/)
+     [Download part of the sample data from this S3 bucket](https://agreeable-data-public.s3.amazonaws.com/sampleeydata/gl_data_1b_part000.parquet)
 
 ## Project Structure
 
