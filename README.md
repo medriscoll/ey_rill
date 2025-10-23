@@ -22,7 +22,7 @@ Below are some example visuals from the dashboards:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-org/ey_rill.git
+   git clone https://github.com/medriscoll/ey_rill.git
    cd ey_rill
    ```
 
