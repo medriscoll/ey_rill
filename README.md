@@ -20,23 +20,27 @@ Below are some example visuals from the dashboards:
 
 ## Getting Started
 
-1. **Clone the repository:**
+0. ** Install Rill: **
+   ```curl https://rill.sh | sh 
+   ```
+   
+2. **Clone the repository:**
    ```sh
    git clone https://github.com/medriscoll/ey_rill.git
    cd ey_rill
    ```
 
-2. **Install Rill (if not already installed):**
+3. **Install Rill (if not already installed):**
    ```sh
    curl -s https://cdn.rilldata.com/install.sh | bash
    ```
 
-3. **Start Rill:**
+4. **Start Rill:**
    ```sh
    rill start
    ```
 
-4. **Load the data into Rill:**
+5. **Load the data into Rill:**
    - You can use ClickHouse or DuckDB as your backend. DuckDB is easier to set up for local testing.
    - Example data files (fake data) used for this project:
      
