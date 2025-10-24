@@ -21,7 +21,8 @@ Below are some example visuals from the dashboards:
 ## Getting Started
 
 0. ** Install Rill: **
-   ```curl https://rill.sh | sh 
+   ```sh
+   curl https://rill.sh | sh 
    ```
    
 2. **Clone the repository:**
